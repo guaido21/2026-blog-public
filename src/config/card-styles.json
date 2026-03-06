@@ -39,14 +39,14 @@
 		"order": 6,
 		"offsetX": 184,
 		"offsetY": 255,
-		"enabled": true
+		"enabled": false
 	},
 	"socialButtons": {
-		"width": 339,
-		"height": 164,
+		"width": 362,
+		"height": 146,
 		"order": 6,
-		"offsetX": -261,
-		"offsetY": 195,
+		"offsetX": -228,
+		"offsetY": 206,
 		"enabled": true
 	},
 	"shareCard": {
