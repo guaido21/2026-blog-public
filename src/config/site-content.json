@@ -53,7 +53,21 @@
 			"type": "link",
 			"value": "https://javaguide.cn/",
 			"label": "javaguide",
-			"order": 5
+			"order": 2
+		},
+		{
+			"id": "button-1772760745822",
+			"type": "link",
+			"value": "https://www.ysu.edu.cn/",
+			"label": "燕山大学",
+			"order": 1
+		},
+		{
+			"id": "button-1772760787299",
+			"type": "link",
+			"value": "https://www.52pojie.cn/",
+			"label": "吾爱破解",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
