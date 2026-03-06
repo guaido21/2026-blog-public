@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "guaido.com",
-		"description": "guaido21 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "guaido21的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
 		"username": "guaido21"
 	},
 	"theme": {
@@ -61,6 +61,20 @@
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1772759943462",
+			"type": "link",
+			"value": "https://xiaolincoding.com/",
+			"label": "小林coding",
+			"order": 4
+		},
+		{
+			"id": "button-1772759981603",
+			"type": "link",
+			"value": "https://javaguide.cn/",
+			"label": "javaguide",
+			"order": 5
 		}
 	],
 	"clockShowSeconds": false,
